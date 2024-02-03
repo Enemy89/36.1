@@ -1,0 +1,5 @@
+C:/untitled13/cmake-build-debug/CMakeFiles/untitled13.dir
+C:/untitled13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/untitled13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/untitled13/cmake-build-debug/CMakeFiles/untitled13_autogen_timestamp_deps.dir
+C:/untitled13/cmake-build-debug/CMakeFiles/untitled13_autogen.dir
